@@ -3,16 +3,16 @@
 📱 Android Developer  
 🎓 Computer Science Student  
 
-## 🛠 Skills
+##  Skills
 - Android Studio
 - Java
 - REST API (Retrofit)
 - Firebase
 - Git & GitHub
 
-## 📂 Projects
+##  Projects
 - **Taqat App** – Training & courses management app  
 - **CourseHub Manager** – Course management app (Room DB)
 
-## 📫 Contact
+##  Contact
 - GitHub: https://github.com/mohammadabdalfatah
