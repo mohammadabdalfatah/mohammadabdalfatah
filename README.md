@@ -9,10 +9,8 @@
 - REST API (Retrofit)
 - Firebase
 - Git & GitHub
+- HTML, CSS, PHP (Laravel)
 
-##  Projects
-- **Taqat App** – Training & courses management app  
-- **CourseHub Manager** – Course management app (Room DB)
 
 ##  Contact
 - GitHub: https://github.com/mohammadabdalfatah
